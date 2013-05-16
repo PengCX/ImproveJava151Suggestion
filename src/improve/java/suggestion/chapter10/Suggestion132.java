@@ -21,7 +21,7 @@ public class Suggestion132 {
 		//每次循环都需要计算
 		//while (i < count*2) {
 		//	Do Something
-		//}
+		//} 
 		//修改：只需要计算一遍
 		//int total = count * 2;
 		//while(i < total){
